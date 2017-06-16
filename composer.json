@@ -1,0 +1,24 @@
+{
+    "name": "bitcoinvietnam/21bitcoinfees-php",
+    "description": "A PHP library to interact with the bitcoinfees.21.co API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Winter",
+            "email": "alex@bitcoin.vn"
+        }
+    ],
+    "require": {
+        "jms/serializer": "^1.7",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "BitcoinVietnam\\TwentyoneBitcoinfees\\": "src/"
+        }
+    }
+}
