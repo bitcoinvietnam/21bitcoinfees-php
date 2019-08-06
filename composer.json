@@ -1,6 +1,6 @@
 {
     "name": "bitcoinvietnam/21bitcoinfees-php",
-    "description": "A PHP library to interact with the bitcoinfees.21.co API",
+    "description": "A PHP library to interact with the bitcoinfees.earn.com API",
     "type": "library",
     "license": "MIT",
     "authors": [
