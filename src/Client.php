@@ -36,7 +36,7 @@ use BitcoinVietnam\TwentyoneBitcoinfees\Utils;
  */
 class Client
 {
-    const BASE_URL = 'https://bitcoinfees.21.co/api/v1';
+    const BASE_URL = 'https://bitcoinfees.earn.com/api/v1';
 
     /**
      * @var array
